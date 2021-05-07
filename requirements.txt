@@ -1,0 +1,4 @@
+rstr~=2.2.6
+WTForms~=2.3.3
+Flask~=1.1.2
+easy-db~=0.9.5
